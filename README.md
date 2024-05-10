@@ -46,18 +46,15 @@
     <table>
       <tr>
         <td>GitHub Stats</td>
-        <td>Most used languages</td>
         <td>Codewars</td>
       </tr>
      <tr>
         <td>
           
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry3755&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)     
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry3755&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
         </td>
-        <td>
-          
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry3755&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-       </td> 
        <td>
 
    [![codewars](https://www.codewars.com/users/Dmitry3755/badges/large)](https://www.codewars.com/users/Dmitry3755) 
