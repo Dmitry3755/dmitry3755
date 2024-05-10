@@ -42,11 +42,28 @@
       </ol>
   </div> 
   <div>
-    <h3>My git`s statistics</h3>
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry3755&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    <h3>My statistics</h3>
+    <table>
+      <tr>
+        <td>GitHub Stats</td>
+        <td>Most used languages</td>
+        <td>Codewars</td>
+      </tr>
+     <tr>
+        <td>
+          
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry3755&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)     
+        </td>
+        <td>
+          
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry3755&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+       </td> 
+       <td>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry3755&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   [![codewars](https://www.codewars.com/users/Dmitry3755/badges/large)](https://www.codewars.com/users/Dmitry3755) 
+       </td>
+     </tr>
+    </table>
   </div>
   <div>
     <h3>📫 Let`s Connect:</h3>
