@@ -1,7 +1,7 @@
 <body>
   <div> 
     <hr/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=38bdae&pause=2500&random=false&width=550&height=55&lines=Dmitry+-+Android+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=38bdae&pause=2500&random=false&width=550&height=55&lines=Dmitry+-+Developer" alt="Typing SVG" /></a>
     <hr/>
   </div>
   <div>
@@ -9,7 +9,7 @@
   </div> 
     <div>
     <h3>:man_technologist: About Me:</h3>
-    <p>I am a intern Android developer from Russia</p>
+    <p>I am a intern developer from Russia</p>
   </div> 
     <div>
     <h3>:hammer_and_wrench: Languages and Tools :</h3>
@@ -20,26 +20,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="40" height="40"/>&nbsp;
       <img src="https://github.com/Dmitry3755/Dmitry3755/assets/96525915/0ce09e56-e5c3-492d-9410-86f92353cf9e" title="Retrofit" alt="Retrofit" width="40" height="40"/>&nbsp;
-  </div> 
-    <div>
-    <h3>🌱 I’m currently learning:</h3>
-      <b>"Учение свет,а не учение тьма" (Knowledge is light and ignorance is darkness )</b>
-      <p></p>
-      <ol>
-        <li>Programming languages </li>
-        <ul>
-          <li>Kotlin</li>
-          <li>Java</li>
-        </ul>
-        <li>Dependency Injection</li>
-        <ul>
-          <li>Dagger2</li>
-          <li>Hilt</li>
-          <li>Koin</li>
-        </ul>
-        <li>The android`s components Lifecycle</li>
-        <li>Also I learn different libraries, Frameworks, etc.</li>
-      </ol>
   </div> 
   <div>
     <h3>My statistics</h3>
