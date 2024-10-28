@@ -1,7 +1,7 @@
 <body>
   <div> 
     <hr/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=38bdae&pause=2500&random=false&width=550&height=55&lines=Dmitry+-+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=38bdae&pause=2500&random=false&width=550&height=55&lines=Dmitry+Android+-+Developer" alt="Typing SVG" /></a>
     <hr/>
   </div>
   <div>
@@ -9,7 +9,7 @@
   </div> 
     <div>
     <h3>:man_technologist: About Me:</h3>
-    <p>I am a intern developer from Russia</p>
+    <p>I am Android-developer from Russia</p>
   </div> 
     <div>
     <h3>:hammer_and_wrench: Languages and Tools :</h3>
