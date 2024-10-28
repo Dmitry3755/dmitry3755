@@ -1,7 +1,7 @@
 <body>
   <div> 
     <hr/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=38bdae&pause=2500&random=false&width=550&height=55&lines=Dmitry+Android+-+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=38bdae&pause=2500&random=false&width=550&height=55&lines=Dmitry+-+Android+Developer" alt="Typing SVG" /></a>
     <hr/>
   </div>
   <div>
