@@ -9,7 +9,7 @@
   </div> 
     <div>
     <h3>:man_technologist: About Me:</h3>
-    <p>I am Android-developer from Russia</p>
+    <p>I`m Dmitry and I`m Android-developer from Russia</p>
   </div> 
     <div>
     <h3>:hammer_and_wrench: Languages and Tools :</h3>
