@@ -38,7 +38,7 @@
         </td>
        <td>
 
-   [![codewars](https://www.codewars.com/users/Dmitry3755/badges/large)](https://www.codewars.com/users/Dmitry3755) 
+   [![codewars](https://www.codewars.com/users/Cortes_404/badges/large)](https://www.codewars.com/users/Cortes_404) 
        </td>
      </tr>
     </table>
