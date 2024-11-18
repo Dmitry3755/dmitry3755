@@ -5,8 +5,6 @@
 <h3>:man_technologist: About Me:</h3>
 <p>I was born and raised in Russia. I graduated from ISPU with a degree in Software Engineer. I like to create applications mainly for Android OS. Also like to solve algorithmic and interesting task on Codewars and Root-me</p>
 
-<p><img align="right" style="height:250px;" src="https://github.com/user-attachments/assets/cc03e506-7929-4843-bf35-5b0b99b6d6fa" alt="" /></p>
-
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
       <ul>
         <li>
@@ -31,6 +29,7 @@
            <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" height="26">
         </li>
         <br/>
+            <p><img align="right" style="height:250px;" src="https://github.com/user-attachments/assets/cc03e506-7929-4843-bf35-5b0b99b6d6fa" alt="" /></p>
         <li>
           💾 Databases:
           &nbsp;<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" height="26">
